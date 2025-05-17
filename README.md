@@ -272,3 +272,81 @@ Com os serviços cognitivos do Azure, é possível construir experiências intel
 
 ---
 
+# 📄 Módulo: Inteligência de Documentos de IA do Azure
+
+Neste módulo, você aprenderá a utilizar a **Inteligência de Documentos** do Azure para extrair dados estruturados a partir de arquivos como PDFs, imagens digitalizadas e formulários. A ferramenta central deste módulo é o **Azure Document Intelligence** (anteriormente chamado de Form Recognizer).
+
+---
+
+## 🎯 Objetivos de Aprendizado
+
+Ao final deste módulo, você será capaz de:
+
+- Compreender o propósito e as capacidades do **Azure Document Intelligence**.
+- Realizar extração automatizada de dados a partir de documentos digitalizados.
+- Treinar modelos personalizados com base em formulários específicos da sua organização.
+- Usar o **Estúdio de Inteligência de Documentos** para criar, testar e gerenciar projetos.
+
+---
+
+## 🧠 Serviços de Inteligência de Documentos de IA do Azure
+
+O **Azure Document Intelligence** é um serviço cognitivo que utiliza **visão computacional** e **machine learning** para entender documentos e extrair dados automaticamente.
+
+### Funcionalidades:
+- **Leitura de documentos** (OCR avançado).
+- **Extração de campos e tabelas** estruturadas.
+- **Modelos pré-treinados** para faturas, recibos, contratos, IDs, entre outros.
+- **Treinamento de modelos personalizados** com seus próprios layouts de documentos.
+
+### Benefícios:
+- Elimina processos manuais de digitação.
+- Reduz erros e aumenta a produtividade.
+- Facilita a integração de documentos com sistemas internos.
+
+---
+
+## 📑 Analisando Formulários com Document Intelligence
+
+Você pode usar o serviço para analisar formulários de forma precisa e automatizada.
+
+### Etapas:
+1. **Upload** de um documento (PDF ou imagem).
+2. O modelo realiza **OCR e análise estrutural**.
+3. Campos e tabelas são extraídos com seus respectivos rótulos e valores.
+4. Os dados podem ser exportados para JSON ou conectados diretamente a bancos de dados ou sistemas ERP.
+
+### Exemplos de Aplicação:
+- Extração de dados de **notas fiscais**.
+- Leitura de **formulários médicos** ou **contratos**.
+- Digitalização e classificação de **documentos jurídicos**.
+
+---
+
+## 🧪 Estúdio de Inteligência de Documentos (Document Intelligence Studio)
+
+O **Document Intelligence Studio** é uma interface gráfica que permite:
+
+- Criar projetos de extração de documentos.
+- Treinar modelos com exemplos reais.
+- Testar modelos diretamente pelo navegador.
+- Visualizar a acurácia dos resultados antes de implantar.
+
+📎 Acesse: [https://documentintelligence.ai.azure.com/](https://documentintelligence.ai.azure.com/)
+
+---
+
+## 🔗 Links Úteis
+
+- [Document Intelligence – Visão geral](https://learn.microsoft.com/azure/ai-services/document-intelligence/overview)
+- [Treinar modelos personalizados](https://learn.microsoft.com/azure/ai-services/document-intelligence/build-training-model-overview)
+- [Azure AI Services](https://azure.microsoft.com/products/ai-services/)
+- [Document Intelligence Studio](https://documentintelligence.ai.azure.com/)
+
+---
+
+## ✅ Conclusão
+
+A **Inteligência de Documentos do Azure** é ideal para organizações que precisam processar grandes volumes de dados a partir de documentos físicos ou digitalizados. Com modelos prontos e personalizáveis, você pode integrar facilmente a IA aos fluxos de trabalho da sua empresa.
+
+---
