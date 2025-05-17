@@ -178,3 +178,97 @@ Com os serviços de **Tradução Cognitiva**, é possível traduzir automaticame
 O Processamento de Linguagem Natural e os serviços de IA conversacional do Azure fornecem ferramentas poderosas para transformar dados textuais e sonoros em valor real para empresas, projetos e produtos digitais. Com poucos cliques ou códigos, você pode desenvolver soluções inovadoras e altamente personalizadas com PLN no Azure.
 
 ---
+
+# 🤖 Módulo: Serviços de IA Conversacional no Azure
+
+Este módulo explora serviços práticos do Azure voltados para **Análise de Texto**, **Bots inteligentes**, **Compreensão de linguagem natural e coloquial**, além de apresentar ferramentas essenciais como o **Estúdio de Fala** e o **Language Studio**, que facilitam a criação e o teste de soluções baseadas em IA.
+
+---
+
+## 📝 Análise de Texto e Resposta a Perguntas
+
+O Azure oferece poderosos recursos para análise de linguagem, permitindo que sistemas interpretem textos e respondam perguntas automaticamente.
+
+### 🧠 Análise de Texto
+- Detecta entidades nomeadas (pessoas, locais, datas).
+- Identifica sentimentos e frases-chave.
+- Detecta idioma e estrutura do texto.
+
+### ❓ Resposta a Perguntas
+- Usa modelos de IA para responder com base em contexto (perguntas e respostas).
+- Pode ser integrado com **Azure Cognitive Search** e **Azure OpenAI**.
+- Ideal para FAQs automatizadas e assistentes inteligentes.
+
+---
+
+## 💬 Serviço de Bot do Azure
+
+O **Azure Bot Service** permite construir, hospedar e gerenciar bots inteligentes com integração a canais como Teams, WhatsApp, WebChat, entre outros.
+
+### Funcionalidades:
+- Construtor visual com **Bot Framework Composer**.
+- Suporte nativo a linguagem natural com o **Language Understanding (LUIS)**.
+- Integração com **Azure Cognitive Services**, **QnA Maker**, **OpenAI**, etc.
+
+### Exemplos de uso:
+- Atendimento ao cliente.
+- Agendamentos automatizados.
+- Coleta de dados via chat.
+
+---
+
+## 🗣️ Compreensão da Linguagem Coloquial
+
+A compreensão de linguagem coloquial é fundamental para tornar interações mais humanas.
+
+### Soluções no Azure:
+- Modelos treinados para interpretar gírias, abreviações e variações linguísticas.
+- **Language Understanding (LUIS)** detecta intenções e entidades mesmo com informalidade.
+- **GPT (OpenAI)** lida bem com conversas fluidas e contextuais.
+
+---
+
+## 🎙️ Conhecendo o Estúdio de Fala (Speech Studio)
+
+O **Speech Studio** é uma ferramenta online que permite testar e treinar modelos de fala com facilidade.
+
+### Recursos disponíveis:
+- **Conversão de fala para texto** (Speech to Text).
+- **Conversão de texto para fala** com vozes customizadas.
+- Testes em tempo real com exemplos próprios.
+- Avaliação da qualidade de pronúncia.
+
+📎 Acesse: [https://speech.microsoft.com/](https://speech.microsoft.com/)
+
+---
+
+## 🧪 Conhecendo o Language Studio
+
+O **Language Studio** permite explorar serviços de linguagem do Azure por meio de uma interface amigável e visual.
+
+### O que você pode fazer:
+- Criar projetos de análise de sentimento.
+- Testar classificação de texto e extração de entidades.
+- Treinar e implantar modelos de **entendimento de linguagem**.
+
+📎 Acesse: [https://language.cognitive.azure.com/](https://language.cognitive.azure.com/)
+
+---
+
+## 🔗 Links Úteis
+
+- [Azure Bot Service – Visão geral](https://learn.microsoft.com/azure/bot-service/)
+- [Speech Studio – Documentação](https://learn.microsoft.com/azure/cognitive-services/speech-service/)
+- [Language Studio – Documentação](https://learn.microsoft.com/azure/cognitive-services/language-service/)
+- [Azure QnA Maker (agora integrado ao Language Studio)](https://learn.microsoft.com/azure/cognitive-services/language-service/question-answering/overview)
+- [Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/overview)
+- [Bot Framework Composer](https://learn.microsoft.com/composer/introduction)
+
+---
+
+## ✅ Conclusão
+
+Com os serviços cognitivos do Azure, é possível construir experiências inteligentes que entendem, respondem e interagem com linguagem humana, mesmo quando expressa de forma informal ou coloquial. O uso de ferramentas como o **Language Studio** e o **Speech Studio** acelera o desenvolvimento e torna o processo mais intuitivo.
+
+---
+
